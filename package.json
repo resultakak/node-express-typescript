@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/resultakak/node-express-typescript/issues"
   },
-  "homepage": "https://github.com/resultakak/node-express-typescript#readme"
+  "homepage": "https://github.com/resultakak/node-express-typescript#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
 }
