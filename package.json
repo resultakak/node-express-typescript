@@ -1,0 +1,19 @@
+{
+  "name": "@resultakak/express-typescript",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resultakak/node-express-typescript.git"
+  },
+  "author": "Resul Takak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resultakak/node-express-typescript/issues"
+  },
+  "homepage": "https://github.com/resultakak/node-express-typescript#readme"
+}
